@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/gatoravi/fisher-exact.svg?branch=master)](https://travis-ci.org/gatoravi/fisher-exact)
 #Fisher exact test
 
 This repo pulls out the fisher exact test code from htslib.
