@@ -8,5 +8,5 @@ from the htslib crew.
     mkdir build && cd build
     cmake ..
     make
-    ./test_fisher_exact
+    ./test-fisher-exact
 ```
