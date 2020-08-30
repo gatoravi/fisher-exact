@@ -212,7 +212,7 @@ typedef struct {
     double p;
 } hgacc_t;
 
-// incremental version of hypergenometric distribution
+// incremental version of hypergeometric distribution
 static double hypergeo_acc(int n11, int n1_, int n_1, int n, hgacc_t *aux)
 {
     if (n1_ || n_1 || n) {
